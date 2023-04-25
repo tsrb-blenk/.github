@@ -2,7 +2,7 @@
 A team created on 25/04/2023 with the purpose of collaborating on a school project at Technical School Ruđer Bošković, Zagreb.
 
 ## Projects
-- [Blenk Website](https://github.com/tsrb-blenk/tsrb-blenk.github.io)
+- [Blenk Website](https://tsrb-blenk.github.io)
 
 ## Member list
 - [hrna placeholder]
